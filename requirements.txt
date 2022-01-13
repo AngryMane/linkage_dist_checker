@@ -1,0 +1,4 @@
+git+https://github.com/TurkuNLP/diaparser.git@master
+conllu
+fugashi
+ipadic
